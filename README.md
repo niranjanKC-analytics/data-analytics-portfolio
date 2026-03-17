@@ -52,7 +52,7 @@ Designed an interactive Power BI dashboard visualizing key business metrics and 
 ## Contact
 
 LinkedIn  
-[https://www.linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/niranjan-k-c-44b681334/) 
+https://www.linkedin.com/in/niranjan-k-c-44b681334/
 
 GitHub  
 https://github.com/niranjanKC-analytics
