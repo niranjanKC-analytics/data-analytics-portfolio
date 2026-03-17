@@ -27,14 +27,13 @@ Power BI | Excel | Tableau | GitHub
 
 ## Certifications
 
-Google Data Analytics Professional Certificate  
-https://www.coursera.org/account/accomplishments/professional-cert/UGUH9RXEBRYR 
+## Certifications
 
-Microsoft Power BI Certification  
-https://www.coursera.org/account/accomplishments/professional-cert/AWYCUXUYVCNC 
+• [Google Data Analytics Professional Certificate – Coursera](https://www.coursera.org/account/accomplishments/professional-cert/UGUH9RXEBRYR)
 
-Google IT Automation with Python
-https://www.coursera.org/account/accomplishments/professional-cert/X7AMUN3JTB2R
+• [Microsoft Power BI Certification – Coursera](https://www.coursera.org/account/accomplishments/professional-cert/AWYCUXUYVCNC)
+
+• [Google IT Automation with Python – Coursera](https://www.coursera.org/account/accomplishments/professional-cert/X7AMUN3JTB2R)
 
 
 ---
