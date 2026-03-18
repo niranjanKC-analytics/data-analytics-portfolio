@@ -27,8 +27,6 @@ Power BI | Excel | Tableau | GitHub
 
 ## Certifications
 
-## Certifications
-
 • [Google Data Analytics Professional Certificate – Coursera](https://www.coursera.org/account/accomplishments/professional-cert/UGUH9RXEBRYR)
 
 • [Microsoft Power BI Certification – Coursera](https://www.coursera.org/account/accomplishments/professional-cert/AWYCUXUYVCNC)
@@ -51,6 +49,17 @@ Built predictive models to classify outcomes based on structured datasets and ev
 
 ### Business Intelligence Dashboard (Power BI)
 Designed an interactive Power BI dashboard visualizing key business metrics and trends to support data-driven decision making.
+
+### Gym Exercise Data Analysis (ANOVA & Regression in R)
+
+Performed statistical analysis on gym workout data to identify factors affecting calories burned and workout performance. Applied ANOVA and multiple linear regression in R to evaluate relationships between workout type, frequency, and body composition variables.
+
+Techniques Used:
+**Statistical Modeling | ANOVA | Linear Regression | Regression Diagnostics | Data Visualization**
+Tools:
+**R | ggplot2 | RStudio**
+
+Project Repository: [View Project](https://github.com/niranjanKC-analytics/gym-exercise-data-analysis)
 
 ---
 
