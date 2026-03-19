@@ -90,6 +90,25 @@ A full-stack data analytics project simulating a real-world food delivery system
 MySQL | SQL | Python | Pandas | Matplotlib
 
 ---
+## Smart Aquarium System Architecture Project
+
+A system design and project planning case study focused on implementing tablet-based interactive systems for aquarium guests. This project demonstrates skills in system architecture, project planning, and technical documentation.
+
+### Key Components
+- Work Breakdown Structure (WBS)
+- Network Diagram (Project Flow)
+- Gantt Chart (Project Scheduling)
+- Cost Estimation and Resource Planning
+
+### Tools & Concepts
+Project Planning | System Architecture | Scheduling | Documentation | Visualization
+
+### Project Links
+- 🔗 [View Repository](https://github.com/niranjanKC-analytics/smart-aquarium-system-architecture)
+- 📄 [Final Report](https://github.com/niranjanKC-analytics/smart-aquarium-system-architecture/blob/main/docs/final-report.docx)
+- 📊 [Presentation Slides](https://github.com/niranjanKC-analytics/smart-aquarium-system-architecture/blob/main/docs/project-presentation.pptx)
+
+---
 
 ## Contact
 
