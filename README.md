@@ -59,7 +59,35 @@ Techniques Used:
 Tools:
 **R | ggplot2 | RStudio**
 
-Project Repository: [View Project](https://github.com/niranjanKC-analytics/gym-exercise-data-analysis)
+🔗 **GitHub Repository:** [View Project](https://github.com/niranjanKC-analytics/gym-exercise-data-analysis)
+
+
+---
+
+## 📊 Food Delivery Analytics Platform
+
+A full-stack data analytics project simulating a real-world food delivery system (similar to Uber Eats / DoorDash). This project demonstrates database design, SQL analytics, and data visualization.
+
+🔗 **GitHub Repository:** [View Project](https://github.com/niranjanKC-analytics/food-delivery-analytics-platform)
+
+### Key Highlights
+
+• Designed a normalized relational database (1NF–3NF)  
+• Built ERD with entities: Customers, Orders, Restaurants, Payments, Reviews  
+• Developed analytical SQL queries (joins, aggregations, subqueries)  
+• Created reusable SQL views for reporting  
+• Integrated MySQL with Python (Pandas) for analysis  
+• Built visualizations using Matplotlib  
+
+### Insights
+
+• Identified high-value customers contributing most revenue  
+• Compared restaurant performance using order and revenue metrics  
+• Analyzed order value distribution for pricing consistency  
+
+### Tools Used
+
+MySQL | SQL | Python | Pandas | Matplotlib
 
 ---
 
