@@ -83,6 +83,7 @@ Performed statistical analysis on gym workout data to identify factors affecting
 
 Techniques Used:
 **Statistical Modeling | ANOVA | Linear Regression | Regression Diagnostics | Data Visualization**
+
 Tools:
 **R | ggplot2 | RStudio**
 
