@@ -1,178 +1,159 @@
-# Niranjan KC – Data Analytics Portfolio
+# 👋 Niranjan K C – Data Analytics Portfolio
 
-Information Technology graduate from Towson University (May 2026) with experience in data analytics, machine learning, natural language processing (NLP), and business intelligence dashboards.
+**Aspiring Data Analyst** | Towson University, May 2026  
+B.S. Information Technology – Data Management & Analytics | GPA: 3.7 | Dean's List
 
-This portfolio showcases projects that demonstrate my ability to analyze data, build predictive models, and communicate insights through visualization.
+Passionate about turning raw data into actionable insights. I build 
+real-world analytics projects using SQL, Python, R, and Tableau — 
+from interactive dashboards to statistical models and database systems.
 
----
-
-## Technical Skills
-
-Programming  
-Python | R | SQL | Java
-
-Data Analysis  
-Exploratory Data Analysis (EDA) | Data Cleaning | Statistical Analysis | Feature Engineering
-
-Machine Learning  
-Classification Models | Predictive Modeling
-
-Text Analytics  
-Natural Language Processing (NLP) | Tokenization | TF-IDF | N-grams
-
-Tools  
-Power BI | Excel | Tableau | GitHub
+📍 Baltimore, MD | 
+[LinkedIn](https://www.linkedin.com/in/niranjan-k-c-44b681334/) | 
+[Tableau Public](https://public.tableau.com/app/profile/niranjan.k.c5704) | 
+[GitHub](https://github.com/niranjanKC-analytics)
 
 ---
 
-## Certifications
+## 🛠️ Technical Skills
 
-• [Google Data Analytics Professional Certificate – Coursera](https://www.coursera.org/account/accomplishments/professional-cert/UGUH9RXEBRYR)
-
-• [Microsoft Power BI Certification – Coursera](https://www.coursera.org/account/accomplishments/professional-cert/AWYCUXUYVCNC)
-
-• [Google IT Automation with Python – Coursera](https://www.coursera.org/account/accomplishments/professional-cert/X7AMUN3JTB2R)
-
-
----
-
-## Portfolio Projects
-
-## 💳 Credit Card Approval Risk Analysis - Exploratory Data Analysis (EDA)
-
-Exploratory Data Analysis (EDA) project analyzing financial applicant data to understand patterns behind credit approval decisions using statistical analysis, outlier detection, and data transformation techniques.
-
-### 🔍 Key Highlights
-- Identified strong right-skewness in income, debt, and credit score distributions
-- Detected extreme outliers impacting statistical interpretation
-- Found weak relationship between income and debt
-- Observed that approval decisions are not driven by a single variable
-- Discovered that industry influences approval outcomes
-
-### 🛠 Skills
-R | ggplot2 | Data Visualization | Statistical Analysis | Exploratory Data Analysis
-
-### 🔗 Project Links
-- 🔗 [View Repository](https://github.com/niranjanKC-analytics/credit-card-approval-eda)
-- 💻 [View R Code](https://github.com/niranjanKC-analytics/credit-card-approval-eda/blob/main/scripts/Assignment1_EDA_KC.R)
-- 📄 [Download Report](https://raw.githubusercontent.com/niranjanKC-analytics/credit-card-approval-eda/main/report/Assignment1_EDA_KC.docx)
-- 📊 [Download Presentation](https://raw.githubusercontent.com/niranjanKC-analytics/credit-card-approval-eda/main/presentation/Credit_Card_Approval_EDA_Niranjan.pptx)
+**Programming & Query:** Python | R | SQL | Java | HTML | CSS | JavaScript  
+**Analytics & BI:** Tableau (Tableau Public) | Power BI | Excel | Pandas | Matplotlib | ggplot2  
+**Statistics:** EDA | ANOVA | Regression | Time-Series | NLP (TF-IDF, N-grams)  
+**Databases & Cloud:** MySQL | ERD | Database Design (3NF) | AWS | Azure | GCP  
+**Tools:** GitHub | RStudio | VS Code | Microsoft Office  
 
 ---
 
-### Credit Card Approval Risk Analysis
-Analyzed financial applicant data to understand patterns behind credit approval decisions using exploratory data analysis, outlier detection, and data transformation techniques.
-## 🚴 Cyclistic Bike-Share Analysis
+## 🎓 Certifications
 
-Business Intelligence project analyzing bike-share usage patterns to understand customer behavior and support strategic decision-making.
+| Certificate | Issuer | Date | Verify |
+|-------------|--------|------|--------|
+| Google Business Intelligence | Google/Coursera | Mar 2026 | [View](https://www.coursera.org/account/accomplishments/professional-cert/AWYCUXUYVCNC) |
+| Google Data Analytics Professional | Google/Coursera | Jan 2026 | [View](https://www.coursera.org/account/accomplishments/professional-cert/UGUH9RXEBRYR) |
+| Google IT Automation with Python | Google/Coursera | Feb 2026 | [View](https://www.coursera.org/account/accomplishments/professional-cert/X7AMUN3JTB2R) |
+| AI Fundamentals | Coursera | Mar 2026 | [View](https://www.coursera.org/account/accomplishments/verify/HYJTDJRY17N3) |
 
-### 🔍 Key Highlights
-- Analyzed subscriber vs casual rider behavior
-- Identified seasonal demand trends
+---
+
+## 📊 Portfolio Projects
+
+---
+
+## 🚴 Cyclistic Bike-Share Demand Analysis
+**Tools:** Tableau Public | Data Analysis | Business Intelligence
+
+Analyzed differences between subscriber and casual riders to identify 
+usage trends and support customer growth strategies.
+
+**Key Highlights:**
+- Analyzed subscriber vs casual rider behavior and seasonal demand trends
 - Evaluated neighborhood-level usage patterns
-- Created interactive Tableau dashboard
+- Built interactive Tableau Public dashboard
 
-### 🛠️ Skills
-Tableau | Data Visualization | Data Analysis | Business Intelligence
-
-### 🔗 Project Links
-- 🔗 [View Repository](https://github.com/niranjanKC-analytics/cyclistic-bike-share-analysis)
-- 📊 [Interactive Dashboard](https://public.tableau.com/app/profile/niranjan.k.c5704/viz/CyclisticBikeUsageAnalysisSeasonalityNeighborhoodTrends/CyclisticBikeUsageAnalysisSeasonalityNeighborhoodTrends)
+**🔗 Links:**
+- [View Repository](https://github.com/niranjanKC-analytics/cyclistic-bike-share-analysis)
+- [📊 Live Tableau Dashboard](https://public.tableau.com/app/profile/niranjan.k.c5704/viz/CyclisticBikeUsageAnalysisSeasonalityNeighborhoodTrends/CyclisticBikeUsageAnalysisSeasonalityNeighborhoodTrends)
 
 ---
-## 🚦 Minnesota Traffic Volume Analysis
 
-Data analytics case study exploring traffic patterns using time-series, weather, and holiday data to support transportation planning.
+## 🚦 Minnesota Traffic Volume Dashboard
+**Tools:** Tableau Public | Time-Series Analysis | Data Visualization
 
-### 🔍 Key Highlights
+Integrated time-series, weather, and holiday data to surface peak-hour 
+congestion patterns and support transportation planning decisions.
+
+**Key Highlights:**
 - Analyzed traffic volume trends across months and years
-- Examined weather impact on traffic flow
+- Examined weather and holiday impact on traffic flow
 - Identified peak hours and seasonal congestion patterns
-- Built interactive Tableau dashboard
+- Built interactive Tableau Public dashboard
 
-### 🛠️ Skills
-Tableau | Time-Series Analysis | Data Visualization | Data Analysis
-
-### 🔗 Project Links
-- 🔗 [View Repository](https://github.com/niranjanKC-analytics/minnesota-traffic-volume-analysis)
-- 📊 [Interactive Dashboard](https://public.tableau.com/app/profile/niranjan.k.c5704/viz/MinnesotaDepartmentofTransportationdashboardproject_17736170366250/MinnesotaTrafficVolumeDashboard)
-
+**🔗 Links:**
+- [View Repository](https://github.com/niranjanKC-analytics/minnesota-traffic-volume-analysis)
+- [📊 Live Tableau Dashboard](https://public.tableau.com/app/profile/niranjan.k.c5704/viz/MinnesotaDepartmentofTransportationdashboardproject_17736170366250/MinnesotaTrafficVolumeDashboard)
 
 ---
-### Gym Exercise Data Analysis (ANOVA & Regression in R)
 
-Performed statistical analysis on gym workout data to identify factors affecting calories burned and workout performance. Applied ANOVA and multiple linear regression in R to evaluate relationships between workout type, frequency, and body composition variables.
+## 🍕 Food Delivery Analytics Platform
+**Tools:** MySQL | Python | Pandas | Matplotlib
 
-Techniques Used:
-**Statistical Modeling | ANOVA | Linear Regression | Regression Diagnostics | Data Visualization**
+Full-stack data analytics project simulating a real-world food delivery 
+system (similar to Uber Eats/DoorDash), demonstrating database design, 
+SQL analytics, and data visualization.
 
-Tools:
-**R | ggplot2 | RStudio**
+**Key Highlights:**
+- Designed normalized relational database (1NF–3NF) with full ERD
+- Built entities: Customers, Orders, Restaurants, Payments, Reviews
+- Developed analytical SQL queries (joins, aggregations, subqueries, views)
+- Integrated MySQL with Python (Pandas) for automated reporting
+- Identified high-value customers contributing most revenue
 
-🔗 **GitHub Repository:** [View Project](https://github.com/niranjanKC-analytics/gym-exercise-data-analysis)
-
----
-## 📊 Food Delivery Analytics Platform
-
-A full-stack data analytics project simulating a real-world food delivery system (similar to Uber Eats / DoorDash). This project demonstrates database design, SQL analytics, and data visualization.
-
-🔗 **GitHub Repository:** [View Project](https://github.com/niranjanKC-analytics/food-delivery-analytics-platform)
-
-### Key Highlights
-
-• Designed a normalized relational database (1NF–3NF)  
-• Built ERD with entities: Customers, Orders, Restaurants, Payments, Reviews  
-• Developed analytical SQL queries (joins, aggregations, subqueries)  
-• Created reusable SQL views for reporting  
-• Integrated MySQL with Python (Pandas) for analysis  
-• Built visualizations using Matplotlib  
-
-### Insights
-
-• Identified high-value customers contributing most revenue  
-• Compared restaurant performance using order and revenue metrics  
-• Analyzed order value distribution for pricing consistency  
-
-### Tools Used
-
-MySQL | SQL | Python | Pandas | Matplotlib
+**🔗 Links:**
+- [View Repository](https://github.com/niranjanKC-analytics/food-delivery-analytics-platform)
 
 ---
-## Smart Aquarium System Architecture Project
 
-A system design and project planning case study focused on implementing tablet-based interactive systems for aquarium guests. This project demonstrates skills in system architecture, project planning, and technical documentation.
+## 💳 Credit Card Approval Risk Analysis – EDA
+**Tools:** R | ggplot2 | Statistical Analysis
 
-### Key Components
+Exploratory Data Analysis on financial applicant data to understand 
+patterns behind credit approval decisions.
+
+**Key Highlights:**
+- Detected right-skewed income, debt, and credit score distributions
+- Identified extreme outliers impacting statistical interpretation
+- Discovered that industry influences approval outcomes
+- Found approval decisions are driven by multiple variables
+
+**🔗 Links:**
+- [View Repository](https://github.com/niranjanKC-analytics/credit-card-approval-eda)
+- [💻 View R Code](https://github.com/niranjanKC-analytics/credit-card-approval-eda/blob/main/scripts/Assignment1_EDA_KC.R)
+- [📄 Download Report](https://raw.githubusercontent.com/niranjanKC-analytics/credit-card-approval-eda/main/report/Assignment1_EDA_KC.docx)
+- [📊 Download Presentation](https://raw.githubusercontent.com/niranjanKC-analytics/credit-card-approval-eda/main/presentation/Credit_Card_Approval_EDA_Niranjan.pptx)
+
+---
+
+## 🏋️ Gym Exercise Data Analysis
+**Tools:** R | ANOVA | Multiple Linear Regression | ggplot2
+
+Statistical analysis on gym workout data to identify factors affecting 
+calories burned and workout performance.
+
+**Key Highlights:**
+- Applied one-way ANOVA to compare calories burned across workout types
+- Built multiple linear regression model to predict workout duration
+- Found workout frequency significantly impacts body composition
+- Visualized diagnostic and results plots with ggplot2
+
+**🔗 Links:**
+- [View Repository](https://github.com/niranjanKC-analytics/gym-exercise-data-analysis)
+
+---
+
+## 🏗️ Smart Aquarium System Architecture
+**Tools:** Project Planning | SDLC | System Design | Microsoft Excel
+
+System design and project planning case study for implementing a 
+$120K–$170K tablet-based interactive system at the National Aquarium 
+in Baltimore.
+
+**Key Components:**
+- 25-week project schedule (Gantt Chart)
 - Work Breakdown Structure (WBS)
-- Network Diagram (Project Flow)
-- Gantt Chart (Project Scheduling)
+- RACI Responsibility Matrix
 - Cost Estimation and Resource Planning
+- Network Diagram
 
-### Tools & Concepts
-Project Planning | System Architecture | Scheduling | Documentation | Visualization
-
-### Project Links
-- 🔗 [View Repository](https://github.com/niranjanKC-analytics/smart-aquarium-system-architecture)
-- 📄 [Final Report](https://github.com/niranjanKC-analytics/smart-aquarium-system-architecture/blob/main/docs/final-report.docx)
-- 📊 [Presentation Slides](https://github.com/niranjanKC-analytics/smart-aquarium-system-architecture/blob/main/docs/project-presentation.pptx)
-
----
-### Text Analytics and Sentiment Analysis (NLP)
-Applied natural language processing techniques including tokenization, stop-word removal, TF-IDF, and n-gram analysis to extract insights from unstructured text data.
-
-### Machine Learning Classification Model
-Built predictive models to classify outcomes based on structured datasets and evaluated model performance using common machine learning metrics.
-
-### Business Intelligence Dashboard (Power BI)
-Designed an interactive Power BI dashboard visualizing key business metrics and trends to support data-driven decision making.
+**🔗 Links:**
+- [View Repository](https://github.com/niranjanKC-analytics/smart-aquarium-system-architecture)
+- [📄 Final Report](https://github.com/niranjanKC-analytics/smart-aquarium-system-architecture/blob/main/docs/final-report.docx)
+- [📊 Presentation Slides](https://github.com/niranjanKC-analytics/smart-aquarium-system-architecture/blob/main/docs/project-presentation.pptx)
 
 ---
 
+## 📬 Contact
 
-## Contact
-
-LinkedIn  
-https://www.linkedin.com/in/niranjan-k-c-44b681334/
-
-GitHub  
-https://github.com/niranjanKC-analytics
+- 📧 niranjan.kc83@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/niranjan-k-c-44b681334/)
+- 📊 [Tableau Public](https://public.tableau.com/app/profile/niranjan.k.c5704)
+- 💻 [GitHub](https://github.com/niranjanKC-analytics)
