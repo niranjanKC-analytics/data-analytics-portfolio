@@ -38,7 +38,7 @@ Power BI | Excel | Tableau | GitHub
 
 ## Portfolio Projects
 
-## 💳 Credit Card Approval Risk Analysis
+## 💳 Credit Card Approval Risk Analysis - Exploratory Data Analysis (EDA)
 
 Exploratory Data Analysis (EDA) project analyzing financial applicant data to understand patterns behind credit approval decisions using statistical analysis, outlier detection, and data transformation techniques.
 
