@@ -38,6 +38,26 @@ Power BI | Excel | Tableau | GitHub
 
 ## Portfolio Projects
 
+## 💳 Credit Card Approval Risk Analysis
+
+Exploratory Data Analysis (EDA) project analyzing financial applicant data to understand patterns behind credit approval decisions using statistical analysis, outlier detection, and data transformation techniques.
+
+### 🔍 Key Highlights
+- Identified strong right-skewness in income, debt, and credit score distributions
+- Detected extreme outliers impacting statistical interpretation
+- Found weak relationship between income and debt
+- Observed that approval decisions are not driven by a single variable
+- Discovered that industry influences approval outcomes
+
+### 🛠 Skills
+R | ggplot2 | Data Visualization | Statistical Analysis | Exploratory Data Analysis
+
+### 🔗 Project Links
+- 🔗 [View Repository](https://github.com/niranjanKC-analytics/credit-card-approval-eda)
+- 💻 [View R Code](https://github.com/niranjanKC-analytics/credit-card-approval-eda/blob/main/scripts/Assignment1_EDA_KC.R)
+- 📄 [Download Report](https://raw.githubusercontent.com/niranjanKC-analytics/credit-card-approval-eda/main/report/Assignment1_EDA_KC.docx)
+- 📊 [Download Presentation](https://raw.githubusercontent.com/niranjanKC-analytics/credit-card-approval-eda/main/presentation/Credit_Card_Approval_EDA_Niranjan.pptx)
+
 ### Credit Card Approval Risk Analysis
 Analyzed financial applicant data to understand patterns behind credit approval decisions using exploratory data analysis, outlier detection, and data transformation techniques.
 ## 🚴 Cyclistic Bike-Share Analysis
