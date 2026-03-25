@@ -142,6 +142,7 @@ Built predictive models to classify outcomes based on structured datasets and ev
 
 ### Business Intelligence Dashboard (Power BI)
 Designed an interactive Power BI dashboard visualizing key business metrics and trends to support data-driven decision making.
+
 ---
 
 
