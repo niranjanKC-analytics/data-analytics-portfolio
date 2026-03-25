@@ -40,6 +40,24 @@ Power BI | Excel | Tableau | GitHub
 
 ### Credit Card Approval Risk Analysis
 Analyzed financial applicant data to understand patterns behind credit approval decisions using exploratory data analysis, outlier detection, and data transformation techniques.
+## 🚴 Cyclistic Bike-Share Analysis
+
+Business Intelligence project analyzing bike-share usage patterns to understand customer behavior and support strategic decision-making.
+
+### 🔍 Key Highlights
+- Analyzed subscriber vs casual rider behavior
+- Identified seasonal demand trends
+- Evaluated neighborhood-level usage patterns
+- Created interactive Tableau dashboard
+
+### 🛠️ Skills
+Tableau | Data Visualization | Data Analysis | Business Intelligence
+
+### 🔗 Project Links
+- 🔗 [View Repository](https://github.com/niranjanKC-analytics/cyclistic-bike-share-analysis)
+- 📊 [Interactive Dashboard](https://public.tableau.com/app/profile/niranjan.k.c5704/viz/CyclisticBikeUsageAnalysisSeasonalityNeighborhoodTrends/CyclisticBikeUsageAnalysisSeasonalityNeighborhoodTrends)
+
+---
 
 ### Text Analytics and Sentiment Analysis (NLP)
 Applied natural language processing techniques including tokenization, stop-word removal, TF-IDF, and n-gram analysis to extract insights from unstructured text data.
