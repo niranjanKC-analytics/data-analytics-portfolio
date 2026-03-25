@@ -58,7 +58,6 @@ Tableau | Data Visualization | Data Analysis | Business Intelligence
 - 📊 [Interactive Dashboard](https://public.tableau.com/app/profile/niranjan.k.c5704/viz/CyclisticBikeUsageAnalysisSeasonalityNeighborhoodTrends/CyclisticBikeUsageAnalysisSeasonalityNeighborhoodTrends)
 
 ---
-
 ## 🚦 Minnesota Traffic Volume Analysis
 
 Data analytics case study exploring traffic patterns using time-series, weather, and holiday data to support transportation planning.
@@ -78,16 +77,6 @@ Tableau | Time-Series Analysis | Data Visualization | Data Analysis
 
 
 ---
-
-### Text Analytics and Sentiment Analysis (NLP)
-Applied natural language processing techniques including tokenization, stop-word removal, TF-IDF, and n-gram analysis to extract insights from unstructured text data.
-
-### Machine Learning Classification Model
-Built predictive models to classify outcomes based on structured datasets and evaluated model performance using common machine learning metrics.
-
-### Business Intelligence Dashboard (Power BI)
-Designed an interactive Power BI dashboard visualizing key business metrics and trends to support data-driven decision making.
-
 ### Gym Exercise Data Analysis (ANOVA & Regression in R)
 
 Performed statistical analysis on gym workout data to identify factors affecting calories burned and workout performance. Applied ANOVA and multiple linear regression in R to evaluate relationships between workout type, frequency, and body composition variables.
@@ -99,9 +88,7 @@ Tools:
 
 🔗 **GitHub Repository:** [View Project](https://github.com/niranjanKC-analytics/gym-exercise-data-analysis)
 
-
 ---
-
 ## 📊 Food Delivery Analytics Platform
 
 A full-stack data analytics project simulating a real-world food delivery system (similar to Uber Eats / DoorDash). This project demonstrates database design, SQL analytics, and data visualization.
@@ -147,6 +134,16 @@ Project Planning | System Architecture | Scheduling | Documentation | Visualizat
 - 📊 [Presentation Slides](https://github.com/niranjanKC-analytics/smart-aquarium-system-architecture/blob/main/docs/project-presentation.pptx)
 
 ---
+### Text Analytics and Sentiment Analysis (NLP)
+Applied natural language processing techniques including tokenization, stop-word removal, TF-IDF, and n-gram analysis to extract insights from unstructured text data.
+
+### Machine Learning Classification Model
+Built predictive models to classify outcomes based on structured datasets and evaluated model performance using common machine learning metrics.
+
+### Business Intelligence Dashboard (Power BI)
+Designed an interactive Power BI dashboard visualizing key business metrics and trends to support data-driven decision making.
+---
+
 
 ## Contact
 
