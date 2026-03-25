@@ -59,6 +59,26 @@ Tableau | Data Visualization | Data Analysis | Business Intelligence
 
 ---
 
+## 🚦 Minnesota Traffic Volume Analysis
+
+Data analytics case study exploring traffic patterns using time-series, weather, and holiday data to support transportation planning.
+
+### 🔍 Key Highlights
+- Analyzed traffic volume trends across months and years
+- Examined weather impact on traffic flow
+- Identified peak hours and seasonal congestion patterns
+- Built interactive Tableau dashboard
+
+### 🛠️ Skills
+Tableau | Time-Series Analysis | Data Visualization | Data Analysis
+
+### 🔗 Project Links
+- 🔗 [View Repository](https://github.com/niranjanKC-analytics/minnesota-traffic-volume-analysis)
+- 📊 [Interactive Dashboard](https://public.tableau.com/app/profile/niranjan.k.c5704/viz/MinnesotaDepartmentofTransportationdashboardproject_17736170366250/MinnesotaTrafficVolumeDashboard)
+
+
+---
+
 ### Text Analytics and Sentiment Analysis (NLP)
 Applied natural language processing techniques including tokenization, stop-word removal, TF-IDF, and n-gram analysis to extract insights from unstructured text data.
 
