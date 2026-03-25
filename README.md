@@ -58,6 +58,8 @@ R | ggplot2 | Data Visualization | Statistical Analysis | Exploratory Data Analy
 - 📄 [Download Report](https://raw.githubusercontent.com/niranjanKC-analytics/credit-card-approval-eda/main/report/Assignment1_EDA_KC.docx)
 - 📊 [Download Presentation](https://raw.githubusercontent.com/niranjanKC-analytics/credit-card-approval-eda/main/presentation/Credit_Card_Approval_EDA_Niranjan.pptx)
 
+---
+
 ### Credit Card Approval Risk Analysis
 Analyzed financial applicant data to understand patterns behind credit approval decisions using exploratory data analysis, outlier detection, and data transformation techniques.
 ## 🚴 Cyclistic Bike-Share Analysis
