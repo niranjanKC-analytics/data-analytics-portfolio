@@ -1,13 +1,13 @@
 # 👋 Niranjan K C – Data Analytics Portfolio
 
-**Aspiring Data Analyst** | Towson University, May 2026  
-B.S. Information Technology – Data Management & Analytics | GPA: 3.7 | Dean's List
+**Data Analyst** | Towson University, May 2026  
+B.S. Information Technology – Data Management & Analytics | GPA: 3.80 | Dean's List Every Semester
 
 Passionate about turning raw data into actionable insights. I build 
 real-world analytics projects using SQL, Python, R, and Tableau — 
-from interactive dashboards to statistical models and database systems.
+from interactive dashboards to machine learning models and NLP pipelines.
 
-📍 Baltimore, MD | 
+📍 Parkville, MD | 
 [LinkedIn](https://www.linkedin.com/in/niranjan-k-c-44b681334/) | 
 [Tableau Public](https://public.tableau.com/app/profile/niranjan.k.c5704) | 
 [GitHub](https://github.com/niranjanKC-analytics)
@@ -17,8 +17,8 @@ from interactive dashboards to statistical models and database systems.
 ## 🛠️ Technical Skills
 
 **Programming & Query:** Python | R | SQL | Java | HTML | CSS | JavaScript  
-**Analytics & BI:** Tableau (Tableau Public) | Power BI | Excel | Pandas | Matplotlib | ggplot2  
-**Statistics:** EDA | ANOVA | Regression | Time-Series | NLP (TF-IDF, N-grams)  
+**Analytics & ML:** NLP | Sentiment Analysis | LDA | Classification | Clustering | ANOVA | Regression | Time-Series | EDA  
+**BI & Visualization:** Tableau | Power BI | Excel | Pandas | Matplotlib | ggplot2  
 **Databases & Cloud:** MySQL | ERD | Database Design (3NF) | AWS | Azure | GCP  
 **Tools:** GitHub | RStudio | VS Code | Microsoft Office  
 
@@ -31,11 +31,51 @@ from interactive dashboards to statistical models and database systems.
 | Google Business Intelligence | Google/Coursera | Mar 2026 | [View](https://www.coursera.org/account/accomplishments/professional-cert/AWYCUXUYVCNC) |
 | Google Data Analytics Professional | Google/Coursera | Jan 2026 | [View](https://www.coursera.org/account/accomplishments/professional-cert/UGUH9RXEBRYR) |
 | Google IT Automation with Python | Google/Coursera | Feb 2026 | [View](https://www.coursera.org/account/accomplishments/professional-cert/X7AMUN3JTB2R) |
+| Google IT Support Professional | Google/Coursera | Mar 2026 | [View](https://www.coursera.org/account/accomplishments/professional-cert/EVL50QCU6ADG) |
+| AWS Cloud Foundations | Amazon Web Services | Nov 2025 | [View](https://www.credly.com/go/mQaRilBk) |
 | AI Fundamentals | Coursera | Mar 2026 | [View](https://www.coursera.org/account/accomplishments/verify/HYJTDJRY17N3) |
 
 ---
 
 ## 📊 Portfolio Projects
+
+---
+
+## ✈️ British Airways NLP — Sentiment Analysis & Topic Modeling
+**Tools:** R · tidytext · tm · Naive Bayes · KNN · LDA · ggplot2  
+**Course:** CIS 428 Text Analytics | Spring 2026
+
+Full NLP pipeline on 3,701 British Airways customer reviews to extract 
+actionable business intelligence using supervised and unsupervised methods.
+
+**Key Highlights:**
+- Multi-lexicon sentiment analysis using Bing, AFINN, and NRC
+- Naive Bayes classifier — 66.4% accuracy
+- KNN classifier — 59.62% accuracy (cross-validated k=1 to 30)
+- LDA topic modeling (k=3) identified 3 dominant themes
+- Economy Class passengers significantly more negative than Business/First Class
+
+**🔗 Links:**
+- [View Repository](https://github.com/niranjanKC-analytics/british-airways-nlp)
+
+---
+
+## 🎯 Customer Personality ML — Clustering & Campaign Response Prediction
+**Tools:** R · K-Means · Decision Tree · KNN · Logistic Regression · caret  
+**Course:** CIS 468 Data Mining | Spring 2026
+
+Segmented 2,240 customers and predicted marketing campaign responses 
+using clustering and classification on a highly imbalanced dataset (14.9% positive).
+
+**Key Highlights:**
+- K-Means clustering (k=4) revealed response rates from 4.2% to 57.7%
+- Decision Tree achieved best F1 score (0.4649) across 3 classifiers
+- Logistic Regression achieved highest accuracy (87.33%)
+- Income and TotalSpend identified as top predictors of campaign response
+- Led 4-person team through full data mining pipeline
+
+**🔗 Links:**
+- [View Repository](https://github.com/niranjanKC-analytics/Customer-Personality-ML-Clustering-Campaign-Response-Prediction)
 
 ---
 
@@ -78,8 +118,7 @@ congestion patterns and support transportation planning decisions.
 **Tools:** MySQL | Python | Pandas | Matplotlib
 
 Full-stack data analytics project simulating a real-world food delivery 
-system (similar to Uber Eats/DoorDash), demonstrating database design, 
-SQL analytics, and data visualization.
+system, demonstrating database design, SQL analytics, and data visualization.
 
 **Key Highlights:**
 - Designed normalized relational database (1NF–3NF) with full ERD
@@ -107,9 +146,6 @@ patterns behind credit approval decisions.
 
 **🔗 Links:**
 - [View Repository](https://github.com/niranjanKC-analytics/credit-card-approval-eda)
-- [💻 View R Code](https://github.com/niranjanKC-analytics/credit-card-approval-eda/blob/main/scripts/Assignment1_EDA_KC.R)
-- [📄 Download Report](https://raw.githubusercontent.com/niranjanKC-analytics/credit-card-approval-eda/main/report/Assignment1_EDA_KC.docx)
-- [📊 Download Presentation](https://raw.githubusercontent.com/niranjanKC-analytics/credit-card-approval-eda/main/presentation/Credit_Card_Approval_EDA_Niranjan.pptx)
 
 ---
 
@@ -121,7 +157,7 @@ calories burned and workout performance.
 
 **Key Highlights:**
 - Applied one-way ANOVA to compare calories burned across workout types
-- Built multiple linear regression model to predict workout duration
+- Built multiple linear regression model (R² = 0.68)
 - Found workout frequency significantly impacts body composition
 - Visualized diagnostic and results plots with ggplot2
 
@@ -146,8 +182,6 @@ in Baltimore.
 
 **🔗 Links:**
 - [View Repository](https://github.com/niranjanKC-analytics/smart-aquarium-system-architecture)
-- [📄 Final Report](https://github.com/niranjanKC-analytics/smart-aquarium-system-architecture/blob/main/docs/final-report.docx)
-- [📊 Presentation Slides](https://github.com/niranjanKC-analytics/smart-aquarium-system-architecture/blob/main/docs/project-presentation.pptx)
 
 ---
 
